@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Country Explorer
 
 ## Project Description
@@ -28,3 +29,6 @@ This project works on:
 3. Open the terminal
 4. Run:
 
+=======
+# country-explorer
+>>>>>>> 502baa841dd20a1ef035d3890dbeff7bd13835fe
